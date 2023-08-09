@@ -1,0 +1,28 @@
+irgyad "Hello"
+
+légyen foo
+foo az 5
+
+légyen bar 
+bar az 5
+
+légyen sum 
+sum az /foo + bar/
+
+irgyad sum
+
+légyen name
+kérgyed name
+irgyad name
+
+írgyad "Hány éves vagy?"
+légyen age
+kérgyed age
+
+ha /age nagyobbé 18/
+akko
+    írgyad "Nagykorú"
+elég
+dehanem
+    írgyad "Kicsike"
+elég
